@@ -1,5 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=JannesStroehlein.JannesStroehlein&left_color=green&right_color=red)
-
 # Welcome to my Github Profile
 
 ### My Specs
